@@ -13,11 +13,6 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "extra": {
-      "eas": {
-      "projectId": ${{ secrets.PROJECT_ID }}
-      },
-    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
